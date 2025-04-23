@@ -1,6 +1,6 @@
 {
   "name": "azure-openai-cost-estimator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight utility to estimate the cost of Azure OpenAI API calls",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -30,12 +30,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/outbrain/azure-openai-cost-estimator.git"
+    "url": "git+https://github.com/outbrain-inc/azure-openai-cost-estimator.git"
   },
   "bugs": {
-    "url": "https://github.com/outbrain/azure-openai-cost-estimator/issues"
+    "url": "https://github.com/outbrain-inc/azure-openai-cost-estimator/issues"
   },
-  "homepage": "https://github.com/outbrain/azure-openai-cost-estimator#readme",
+  "homepage": "https://github.com/outbrain-inc/azure-openai-cost-estimator#readme",
   "dependencies": {
     "axios": "^1.6.7"
   },
